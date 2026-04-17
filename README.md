@@ -56,7 +56,6 @@ O design persegue estritamente refutar escalabilidades estéreis de hardware. Me
 
 <p align="center">
   <b>🇧🇷 Pesquisa e Desenvolvimento – Brasil. 🇧🇷</b><br>
-  <i>Inovação Paramétrica & Evolução Direcionada ao Determinismo</i>
-</p>
+  
 
 [![Ori Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=capgorack&bg_color=0D1117&color=2eb872&line=2eb872&point=1e7145&area=true&hide_border=true)](https://github.com/capgorack/ori)
