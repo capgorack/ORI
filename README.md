@@ -2,7 +2,7 @@
 > A instrumentação em sua fonte pública atual ofusca o kernel da lógica principal e os dicionários de estado. Adicionalmente, a nomenclatura de certas estruturas foi alterada de forma deliberada para resguardar a arquitetura deste modelo em sua atual fase embrionária, até que haja estruturação jurídica adequada ou parceria de investimento. Os dados, métricas e as aproximações físicas abaixo descritos são fidedignos e extraídos de benchmarks reais.
 
 <p align="center">
-  <img src="oribr.svg" alt="ORI-DSM" width="300">
+  <img src="oribr.svg" alt="ORI-DSM" width="1000">
 </p>
 
 # ORI-DSM: Deterministic State Models
